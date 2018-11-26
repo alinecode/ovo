@@ -1,2 +1,2 @@
 # ovo
-software
+My Software
